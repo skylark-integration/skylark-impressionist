@@ -1,0 +1,22 @@
+Impressionist is a visual tool that enables you to create impress.js presentations in a visual, easy to use way. The drag and drop orchestrator will help define slide transitions visually.
+
+Impressionist is conceptualized and developed by Harish Sivaramakrishnan (@hsivaram) and is under open development on github. Please feel free to watch / fork / log issues.
+
+DEVELOPMENT NOTES 
+
+The current version is alpha 3
+
+Features
+
+* WSWIYG slide authoring
+* Google web fonts support for typography
+* Text and Image support
+* Copy + Paste support (CTRL + C & V) for object duplication
+* Transform controls for slide elements
+* Delete objects, Delete slides
+* WSIWYG orchestration view
+* 3D orchestration using controls
+* Preview presentation
+* Export presentation as ZIP
+* Save presentation (source) to resume work.
+
